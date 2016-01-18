@@ -1,3 +1,9 @@
+Chef LNMP
+====
+
+An example chef repo for installing a lnmp stack to a server.
+
+
 Overview
 ========
 
